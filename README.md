@@ -1,1 +1,1 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/62429591?v=4)](https://github.com/Saaweel)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saaweel)](https://git.io/streak-stats)
